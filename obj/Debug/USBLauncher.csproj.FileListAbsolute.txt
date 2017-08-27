@@ -1,0 +1,7 @@
+E:\Users\cross\Documents\Visual Studio 2017\Projects\USBLauncherService\USBLauncher\bin\Debug\USBLauncher.dll
+E:\Users\cross\Documents\Visual Studio 2017\Projects\USBLauncherService\USBLauncher\bin\Debug\USBLauncher.pdb
+E:\Users\cross\Documents\Visual Studio 2017\Projects\USBLauncherService\USBLauncher\bin\Debug\HidLibrary.dll
+E:\Users\cross\Documents\Visual Studio 2017\Projects\USBLauncherService\USBLauncher\bin\Debug\HidLibrary.pdb
+E:\Users\cross\Documents\Visual Studio 2017\Projects\USBLauncherService\USBLauncher\obj\Debug\USBLauncher.csprojResolveAssemblyReference.cache
+E:\Users\cross\Documents\Visual Studio 2017\Projects\USBLauncherService\USBLauncher\obj\Debug\USBLauncher.dll
+E:\Users\cross\Documents\Visual Studio 2017\Projects\USBLauncherService\USBLauncher\obj\Debug\USBLauncher.pdb
